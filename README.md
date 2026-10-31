@@ -3,7 +3,7 @@
 Code and processed data for the article *Predicting Life Expectancy at Birth in the United States with metaheuristic
 optimized least squares boosting on socioeconomic and environmental indicators* (I. M. K. Ghonsol and W. M. S. Khalifa).
 
-Archived versions: v1.0.0 Zenodo DOI 10.5281/zenodo.23081107 (second revision); v1.1.0 DOI 10.5281/zenodo.[to be inserted on release] (third revision: leakage-safe Protocol B, nested tuning, verification script)  ·  Repository: https://github.com/Ilnas1234/Life-Expectancy
+Archived versions: v1.0.0 Zenodo DOI 10.5281/zenodo.23081107 (second revision); v1.1.0 DOI 10.5281/zenodo.23841107 (third revision: leakage-safe Protocol B, nested tuning, verification script)  ·  Repository: https://github.com/Ilnas1234/Life-Expectancy
 
 ## Contents
 
