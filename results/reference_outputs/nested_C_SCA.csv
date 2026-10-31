@@ -1,0 +1,2 @@
+Protocol,Model,R2,RMSE,MAE
+C,SCA-LSBoost (nested),0.6237 ± 0.0682,0.4881 ± 0.0435,0.3168 ± 0.0330

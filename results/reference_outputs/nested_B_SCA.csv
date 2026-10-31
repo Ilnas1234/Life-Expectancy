@@ -1,0 +1,2 @@
+Protocol,Model,R2,RMSE,MAE,MAE (23 January anchors)
+B,SCA-LSBoost (nested),0.8280 ± 0.0322,0.3117 ± 0.0288,0.2025 ± 0.0205,0.2801 ± 0.0157

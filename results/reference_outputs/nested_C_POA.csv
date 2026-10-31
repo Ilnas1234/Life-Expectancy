@@ -1,0 +1,2 @@
+Protocol,Model,R2,RMSE,MAE
+C,POA-LSBoost (nested),0.6460 ± 0.0927,0.4723 ± 0.0614,0.3106 ± 0.0431

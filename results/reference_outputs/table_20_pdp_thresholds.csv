@@ -1,0 +1,5 @@
+Feature,PDP low plateau,PDP high plateau,Shape,Range (years),Midpoint (raw units),10-90% band (raw)
+UP,-1.044,0.452,monotone step,1.496,80.08,80.021 – 80.106
+EA,-0.152,0.078,monotone step,0.23,29.7,28.789 – 30.152
+NM,-0.147,0.072,monotone step,0.219,10.77,10.574 – 10.894
+CO2,-0.06,0.001,non-monotonic,0.158,not defined,"not defined; min -0.091 at 4978, max 0.067 at 5534"

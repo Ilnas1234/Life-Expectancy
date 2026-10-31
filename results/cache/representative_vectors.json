@@ -1,0 +1,15 @@
+{
+  "_note": "Representative hyperparameter vector (n_estimators, max_depth, learning_rate, min_samples_leaf, subsample) of every (optimizer, population size) configuration and its five-fold CV fitness on the Protocol A training partition, as reported in Table 8 of the manuscript. Selected by training-only CV fitness. Regenerated exactly by section_04_optimization.py (about 10 h on one CPU core).",
+  "PO":  {"10": {"params": [400, 10, 0.0838, 1, 0.501], "cv_fitness": 0.0175},
+          "20": {"params": [341, 8, 0.0503, 2, 0.511], "cv_fitness": 0.0175},
+          "30": {"params": [400, 10, 0.0714, 1, 0.500], "cv_fitness": 0.0175},
+          "40": {"params": [400, 15, 0.0373, 2, 0.512], "cv_fitness": 0.0172}},
+  "POA": {"10": {"params": [340, 7, 0.0610, 2, 0.682], "cv_fitness": 0.0171},
+          "20": {"params": [398, 9, 0.0394, 2, 0.507], "cv_fitness": 0.0170},
+          "30": {"params": [390, 8, 0.0171, 1, 0.560], "cv_fitness": 0.0171},
+          "40": {"params": [381, 9, 0.0394, 2, 0.506], "cv_fitness": 0.0170}},
+  "SCA": {"10": {"params": [360, 11, 0.0293, 2, 0.658], "cv_fitness": 0.0178},
+          "20": {"params": [400, 10, 0.0228, 1, 0.500], "cv_fitness": 0.0173},
+          "30": {"params": [400, 7, 0.0345, 1, 0.500], "cv_fitness": 0.0175},
+          "40": {"params": [400, 10, 0.0247, 1, 0.500], "cv_fitness": 0.0175}}
+}

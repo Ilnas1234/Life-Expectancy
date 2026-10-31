@@ -1,0 +1,5 @@
+Comparison (A vs B),Mean MAE A,Mean MAE B,Wilcoxon p,Paired t p,Cohen d,Cliff delta,A better in k/10
+SCA-LSBoost vs PO-LSBoost,0.0112,0.0142,0.002,0.0001,2.24,1.0,10
+SCA-LSBoost vs POA-LSBoost,0.0112,0.0141,0.002,0.0002,1.93,0.8,10
+PO-LSBoost vs POA-LSBoost,0.0142,0.0141,0.6953,0.7817,-0.04,0.02,6
+SCA-LSBoost vs RF,0.0112,0.0239,0.002,0.0,14.79,1.0,10

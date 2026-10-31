@@ -1,3 +1,5 @@
+# Versions used to verify this package (Python 3.12). The manuscript runs used Python 3.10.5;
+# see manuscript Table 7 and code/env_report.py. Any recent version of these packages should work.
 numpy>=1.26
 pandas>=2.0
 scipy>=1.11
